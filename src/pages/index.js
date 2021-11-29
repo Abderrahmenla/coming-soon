@@ -37,7 +37,7 @@ const IndexPage = () => {
                 </div>
                 <div className="col-auto">
                   <button
-                    className="btn btn-primary disabled"
+                    className="btn btn-primary"
                     id="submitButton"
                     type="submit"
                   >
